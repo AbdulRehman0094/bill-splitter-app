@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927418069292",
+    "project_id": "flutter-project-23fcc",
+    "storage_bucket": "flutter-project-23fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927418069292:android:bb8cb1b503c306bb7dbc89",
+        "android_client_info": {
+          "package_name": "com.example.bill_splitter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrY0X4yVW8CzFZk6lbifiloGTRPu4tqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
